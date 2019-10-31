@@ -2,3 +2,6 @@
 
 
 Ramona Saintandre 
+Nyki Lundgren
+
+Bryce Byker

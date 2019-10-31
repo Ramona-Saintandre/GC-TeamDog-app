@@ -1,5 +1,4 @@
 ## GC-TEAMdog-app
 
-
-Ramona Saintandre 
 Josh Hall
+Ramona Saintandre 
